@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <Id>1</Id>
+    <FirstName>Abdul Kholiq </FirstName>
+    <LastName>Al Anam</LastName>
+    <Age>23</Age>
+  </Employee>
+  <Employee>
+    <Id>2</Id>
+    <FirstName>Sandeep</FirstName>
+    <LastName>Reddy</LastName>
+    <Age>28</Age>
+  </Employee>
+  <Employee>
+    <Id>3</Id>
+    <FirstName>Anjas</FirstName>
+    <LastName>Purwadi</LastName>
+    <Age>25</Age>
+  </Employee>
+</Employees>
